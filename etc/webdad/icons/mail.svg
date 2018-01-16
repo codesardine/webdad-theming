@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   class="feather feather-mail"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="mail.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="817"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="27.073746"
+     inkscape:cy="25.080724"
+     inkscape:window-x="407"
+     inkscape:window-y="257"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4508"
+     transform="matrix(1.9311851,0,0,1.9311851,4.5572208,-47.093796)"
+     style="stroke-width:2.04790449;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:0;stroke:#cccccc;stroke-width:2.04790449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       d="m 5.7087911,32.454553 h 8.7180119 c 0.599363,0 1.089751,0.490388 1.089751,1.089753 v 6.538507 c 0,0.599363 -0.490388,1.089751 -1.089751,1.089751 H 5.7087911 c -0.5993633,0 -1.0897515,-0.490388 -1.0897515,-1.089751 v -6.538507 c 0,-0.599365 0.4903882,-1.089752 1.0897515,-1.089753 z" />
+    <polyline
+       transform="matrix(0.46575541,0,0,0.46575541,4.3775879,30.018244)"
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:4.39695263;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline4"
+       points="22,6 12,13 2,6" />
+  </g>
+</svg>
