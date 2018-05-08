@@ -17,7 +17,7 @@ sep_display=
 Name=Check Your Email - F3
 
 #S+[Default] Image's name or path:
-Icon=/etc/webdad/jwm/icons/mail_pink.svg
+Icon=geary
 
 #s[Default] Command to launch on click:
 #{Example: nautilus --no-desktop, gedit, etc. You can even enter a shortkey, e.g. <Alt>F1, <Ctrl>c,  <Ctrl>v, etc}
@@ -36,7 +36,7 @@ prevent inhibate=true
 StartupWMClass=
 
 #b Run in a terminal?
-Terminal=false
+Terminal=true
 
 #i-[0;16] Only show in this specific viewport:
 #{If '0' the launcher will be displayed on every viewport.}

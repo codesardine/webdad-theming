@@ -17,7 +17,7 @@ sep_display=
 Name=Launch Default Browser - F1
 
 #S+[Default] Image's name or path:
-Icon=/etc/webdad/jwm/icons/browser_pink.svg
+Icon=
 
 #s[Default] Command to launch on click:
 #{Example: nautilus --no-desktop, gedit, etc. You can even enter a shortkey, e.g. <Alt>F1, <Ctrl>c,  <Ctrl>v, etc}
@@ -43,7 +43,7 @@ Terminal=false
 ShowOnViewport=0
 
 #f[0;100] Order you want for this launcher among the others:
-Order=0
+Order=-4
 
 Icon Type=0
 Type=Application

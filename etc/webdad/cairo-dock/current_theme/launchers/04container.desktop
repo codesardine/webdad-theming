@@ -17,10 +17,10 @@ Name=Quick Settings
 sep_display=
 
 #Y+[Use an image;1;1;Draw sub-dock's content as emblems;0;0;Draw sub-dock's content as stack;0;0;Draw sub-dock's content inside a box;0;0] How to render the icon:
-render=0
+render=2
 
 #S+ Image's name or path:
-Icon=/etc/webdad/jwm/icons/settings.svg
+Icon=settings
 
 
 #X[Extra parameters]
@@ -34,7 +34,7 @@ Renderer=Parabolic
 ShowOnViewport=0
 
 #f[0;100] Order you want for this launcher among the others:
-Order=4.126220703125
+Order=0
 
 Icon Type=1
 Type=Container
