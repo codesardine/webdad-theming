@@ -17,7 +17,7 @@ Name=Shortcuts
 sep_display=
 
 #Y+[Use an image;1;1;Draw sub-dock's content as emblems;0;0;Draw sub-dock's content as stack;0;0;Draw sub-dock's content inside a box;0;0] How to render the icon:
-render=2
+render=1
 
 #S+ Image's name or path:
 Icon=bookmarks
